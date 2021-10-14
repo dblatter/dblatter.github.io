@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://dblatter.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -29,6 +29,7 @@ module:
 ## ADVANCED
 ############################
 
+publishDir: "docs"
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
